@@ -8,7 +8,11 @@ https://drive.google.com/drive/folders/1wjjTBUg2SHXJQwVNjI5vHLk6DjI2W7y7
 - database resulting from the data cleaning and transformation process
 
 ## Objective:  
-This project focuses on . The goal of this project is to build on the cleaned dataset
+This project focuses on data analysis with my sql. The metrics obtained:
+![image](https://github.com/user-attachments/assets/51b8257f-feca-4f84-a7fd-83d30132a8f3)  
+![image](https://github.com/user-attachments/assets/319f3b73-8a4e-406f-bbb4-26217627f0ea)
+
+
 
 ## Skills gained: 
 recursive CTE   
