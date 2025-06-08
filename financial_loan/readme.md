@@ -26,7 +26,44 @@ https://www.youtube.com/watch?v=3I8wd1AShXs&list=PLO9LeSU_vHCVbT81nMD2S_YMRJ1Opn
 ## Some steps of the project and snippets: 
 
 ### 1. Data preparation andd examination (null values, dublicates, inappropriate values) 
-### 2. Metrics from Slide 1 (Dashboard 1: summary) 
+### 2. Metrics from Slide 1 (Dashboard 1: summary)  
+
+I calculated total number of applications, 
+             number of applications from the beginning of the year, 
+             monhtly change, 
+             rate of change compared to the previous month: 
+  
+![image](https://github.com/user-attachments/assets/a3e50207-795b-414f-b103-a3748393dec0)  
+  
+Further, based on the query, I created a view to facilitate the access to the information in the future:  
+![image](https://github.com/user-attachments/assets/1aa9e4ef-181e-4bdd-8c94-c0509253790a)  
+
+in a similar way the queries returning data and creating view for ttotal funded amount, average intrest rate and debt-to-income ration have been created 
+
+As for factual total amount received, it is a dynamic variable and it is possible to calculate it only for the end of the specified period.
+Though, we can monitor the amount of money returned to the bank by their issue month ( this metodology is applied in the video by the author)  
+
+![image](https://github.com/user-attachments/assets/56be1130-a31d-47c1-8f70-dcbb2aed9603)  
+
+Additionally, it is wise to look into an estimated amount of monthly money which the bank planned to receive from the debtors (installment)  
+![image](https://github.com/user-attachments/assets/1b57c0f7-ed02-40fc-8602-5bdcc4f730b6)
+
+In order to look into monhtly change and rate of growth I wraped it up in a tem table to simplify the reading of the query:   
+![image](https://github.com/user-attachments/assets/70804bfe-b72b-45e0-ac64-8e1097598fcc)  
+  
+Unfortunately, a temporary table cant be the source of views, and to create one, I needed to orewrite the queries above into. 
+  
+As a result, the database consists of a number of views:  
+![image](https://github.com/user-attachments/assets/fcbd3214-e31f-4d6d-af56-b2052810ee92)
+
+
+
+
+
+
+
+
+
 
 
 
