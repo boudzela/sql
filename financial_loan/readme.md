@@ -4,7 +4,7 @@ https://drive.google.com/drive/folders/1wjjTBUg2SHXJQwVNjI5vHLk6DjI2W7y7
 
 ## Files:  
 [financial_loan.csv](https://github.com/boudzela/sql/blob/ea22ea97aa76d97af782f0702f68c24defe3851f/financial_loan/financial_loan.csv) - row data
-- sql script containing the code for data analysis 
+- sql script containing the complete code for all data queries with comments
 - database resulting from the data cleaning and transformation process
 
 ## Objective:  
@@ -25,12 +25,12 @@ https://www.youtube.com/watch?v=3I8wd1AShXs&list=PLO9LeSU_vHCVbT81nMD2S_YMRJ1Opn
 
 ## Some steps of the project and snippets: 
 
-### 1. Data examination (null values, dublicates, inappropriate values)  
+### 1. Data preparation andd examination (null values, dublicates, inappropriate values) 
+### 2. Metrics from Slide 1 (Dashboard 1: summary) 
 
 
 
-
-
+### 3. Metrics from Slide 2 (Dashboard 1: summary) 
 
 
 ![image](https://github.com/user-attachments/assets/12520659-6973-4d46-a779-3c4c9e0a0e10)
