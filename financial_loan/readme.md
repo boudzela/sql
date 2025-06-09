@@ -11,8 +11,7 @@ https://drive.google.com/drive/folders/1wjjTBUg2SHXJQwVNjI5vHLk6DjI2W7y7
 This project focuses on data analysis with my sql. The metrics obtained:
 ![image](https://github.com/user-attachments/assets/51b8257f-feca-4f84-a7fd-83d30132a8f3)  
 ![image](https://github.com/user-attachments/assets/319f3b73-8a4e-406f-bbb4-26217627f0ea)
-
-
+![image](https://github.com/user-attachments/assets/a54d3435-6c14-4fe6-8045-013d107bda82)
 
 ## Skills gained: 
 recursive CTE   
@@ -61,6 +60,6 @@ Good Loans's KPI's:
 ![image](https://github.com/user-attachments/assets/12520659-6973-4d46-a779-3c4c9e0a0e10)
   
 Grid view by loan status:  
-
+![image](https://github.com/user-attachments/assets/b7741c36-3a10-4ca7-be25-1c55a4c9ba10)  
 
 ### 4. Dashboad 2 (overview)
