@@ -3,7 +3,6 @@
 -- create database --
 create database finance;
 -- upload all info -- 
---  nulls and void values --
 
  -- change the type of date columns --      
 select  issue_date, str_to_date(issue_date, '%d-%m-%Y')
