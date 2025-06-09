@@ -47,7 +47,7 @@ Though, we can monitor the amount of money returned to the bank by their issue m
 Additionally, it is wise to look into an estimated amount of monthly money which the bank planned to receive from the debtors (installment)  
 ![image](https://github.com/user-attachments/assets/1b57c0f7-ed02-40fc-8602-5bdcc4f730b6)
 
-In order to look into monhtly change and rate of growth I wraped it up in a tem table to simplify the reading of the query:   
+In order to look into monthly change and rate of growth I wraped it up in a temp table to simplify the reading of the query:   
 ![image](https://github.com/user-attachments/assets/70804bfe-b72b-45e0-ac64-8e1097598fcc)  
   
 Unfortunately, a temporary table cant be the source of views, and to create one, I needed to orewrite the queries above into. 
