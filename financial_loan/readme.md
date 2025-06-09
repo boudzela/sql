@@ -4,7 +4,7 @@ https://drive.google.com/drive/folders/1wjjTBUg2SHXJQwVNjI5vHLk6DjI2W7y7
 
 ## Files:  
 [financial_loan.csv](https://github.com/boudzela/sql/blob/ea22ea97aa76d97af782f0702f68c24defe3851f/financial_loan/financial_loan.csv) - row data
-- sql script containing the complete code for all data queries with comments
+[financial_loan_script.sql](https://github.com/boudzela/sql/blob/88fb7a8e8441af07155c899d9c8ffa88e96a48eb/financial_loan/financial_loan_script.sql)- sql script containing the complete code for all data queries with comments
 - database resulting from the data cleaning and transformation process
 
 ## Objective:  
