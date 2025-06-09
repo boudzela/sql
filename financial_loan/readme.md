@@ -56,19 +56,11 @@ Unfortunately, a temporary table cant be the source of views, and to create one,
 As a result, the database consists of a number of views:  
 ![image](https://github.com/user-attachments/assets/fcbd3214-e31f-4d6d-af56-b2052810ee92)
 
-
-
-
-
-
-
-
-
-
-
-
 ### 3. Metrics from Slide 2 (Dashboard 1: summary) 
-
-
+Good Loans's KPI's:  
 ![image](https://github.com/user-attachments/assets/12520659-6973-4d46-a779-3c4c9e0a0e10)
+  
+Grid view by loan status:  
+![image](https://github.com/user-attachments/assets/c96980a3-1b23-4a8c-9ad6-3cfc3f968cc4)
+
 
